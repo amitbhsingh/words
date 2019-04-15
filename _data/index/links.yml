@@ -1,12 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
+- last_name: Singh
+  first_name: Amit
   desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  website: www.peshwa.in
+  email: amitkumar.singh@ryerson.ca
 
 - last_name: Donate
-  first_name: Jalpc
+  first_name: Amit
   desc: Support Jalpc
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
